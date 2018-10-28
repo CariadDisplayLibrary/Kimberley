@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Kimberley.h
-Description: Kimberley font for DisplayCore
+Description: Kimberley
