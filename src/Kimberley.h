@@ -1,7 +1,7 @@
 #ifndef _FONTS_KIMBERLEY_H
 #define _FONTS_KIMBERLEY_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
         extern const uint8_t Kimberley8[];
